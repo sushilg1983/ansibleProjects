@@ -1,7 +1,7 @@
 ---
 # set these parameters to control the region, keypair, and AMI that are launched
 ec2_region: us-east-2b
-instances_keypair: Jenkins1 
+instances_keypair: Training.pem 
 image_id: ami-0606a0d9f566249d3
 
 # security groups to be created
